@@ -41,3 +41,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Build Status](https://cloudpachehra.visualstudio.com/New-Project/_apis/build/status/Pachehra.pipelines-dotnet-core)](https://cloudpachehra.visualstudio.com/New-Project/_build/latest?definitionId=8)
