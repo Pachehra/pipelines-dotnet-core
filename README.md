@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://cloudpachehra.visualstudio.com/Demopro/_apis/build/status/Pachehra.pipelines-dotnet-core)](https://cloudpachehra.visualstudio.com/Demopro/_build/latest?definitionId=9)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
@@ -42,4 +42,3 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
 
-[![Build Status](https://cloudpachehra.visualstudio.com/New-Project/_apis/build/status/Pachehra.pipelines-dotnet-core)](https://cloudpachehra.visualstudio.com/New-Project/_build/latest?definitionId=8)
